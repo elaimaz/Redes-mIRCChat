@@ -1,2 +1,2 @@
 # Redes-mIRCChat
-mIRC Chat "look alike" in c
+IRC Chat "look alike" in c
